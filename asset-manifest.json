@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hash-router-test/static/css/main.65d2d165.css",
+    "main.js": "/react-hash-router-test/static/js/main.ca1f190d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-hash-router-test/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-hash-router-test/index.html",
+    "main.65d2d165.css.map": "/react-hash-router-test/static/css/main.65d2d165.css.map",
+    "main.ca1f190d.js.map": "/react-hash-router-test/static/js/main.ca1f190d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-hash-router-test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d2d165.css",
+    "static/js/main.ca1f190d.js"
+  ]
+}
